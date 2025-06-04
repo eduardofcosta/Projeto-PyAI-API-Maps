@@ -1,0 +1,102 @@
+RAIZ: $
+QUANTIDADE: 72
+
+| NOME DO CAMPO                     | LOCALIZAÇÃO                                                                                                                                                     |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| email (Gestor)                  | $.CompanyUser.Gestor.email                                                                                                                                      |
+| email (Recrutador)              | $.CompanyUser.Recrutador.email                                                                                                                                  |
+| idCompanyUser                   | $.CompanyUser.Recrutador.idCompanyUser                                                                                                                              |
+| DescricaoDetalhada              | $.Vaga.DescricaoDetalhada                                                                                                                                         |
+| StatusProcessoSeletivo          | $.Vaga.StatusProcessoSeletivo                                                                                                                                     |
+| Titulo                          | $.Vaga.Titulo                                                                                                                                                     |
+| DescricaoResumida               | $.Vaga.DescricaoResumida                                                                                                                                          |
+| Descricao (GestorSolicitante)    | $.Vaga.GestorSolicitante.Descricao                                                                                                                                   |
+| Codigo (GestorSolicitante)       | $.Vaga.GestorSolicitante.Codigo                                                                                                                                      |
+| CodigoDeIntegracao (GestorSolicitante) | $.Vaga.GestorSolicitante.CodigoDeIntegracao                                                                                                                           |
+| ProcessoSeletivoModelo          | $.Vaga.ProcessoSeletivoModelo                                                                                                                                     |
+| TipoProcessoSeletivo            | $.Vaga.TipoProcessoSeletivo                                                                                                                                       |
+| Codigo                          | $.Vaga.Codigo                                                                                                                                                     |
+| Identificacao                   | $.Vaga.Identificacao                                                                                                                                              |
+| DataLimite                      | $.Vaga.DataLimite                                                                                                                                                 |
+| DataInicio                      | $.Vaga.DataInicio                                                                                                                                                 |
+| DataConclusao                   | $.Vaga.DataConclusao                                                                                                                                               |
+| Descricao (AnalistaResponsavel)  | $.Vaga.AnalistaResponsavel.Descricao                                                                                                                               |
+| Codigo (AnalistaResponsavel)     | $.Vaga.AnalistaResponsavel.Codigo                                                                                                                                  |
+| CodigoDeIntegracao (AnalistaResponsavel)  | $.Vaga.AnalistaResponsavel.CodigoDeIntegracao                                                                                                                            |
+| ProcessoSeletivoSigiloso        | $.Vaga.ProcessoSeletivoSigiloso                                                                                                                                   |
+| Descricao (Estabelecimento)       | $.Vaga.DadosContratuais.Contratual.Estabelecimento.Descricao                                                                                                                      |
+| Codigo (Estabelecimento)          | $.Vaga.DadosContratuais.Contratual.Estabelecimento.Codigo                                                                                                                         |
+| CodigoDeIntegracao (Estabelecimento)           | $.Vaga.DadosContratuais.Contratual.Estabelecimento.CodigoDeIntegracao                                                                                                                |
+| ValeTransporte                  | $.Vaga.DadosContratuais.Contratual.ValeTransporte                                                                                                                     |
+| NivelSalarial                   | $.Vaga.DadosContratuais.Contratual.NivelSalarial                                                                                                                      |
+| OrgaoResponsavel                | $.Vaga.DadosContratuais.Contratual.OrgaoResponsavel                                                                                                                   |
+| EstudoFaculdade                 | $.Vaga.DadosContratuais.Contratual.EstudoFaculdade                                                                                                                    |
+| AssistenciaOdontologica         | $.Vaga.DadosContratuais.Contratual.AssistenciaOdontologica                                                                                                               |
+| ValeAlimentacao                 | $.Vaga.DadosContratuais.Contratual.ValeAlimentacao                                                                                                                   |
+| a:Descricao (NivelHierarquico)           | $.Vaga.DadosContratuais.Contratual.NivelHierarquico."a:Descricao"                                                                                                    |
+| a:Codigo (NivelHierarquico)              | $.Vaga.DadosContratuais.Contratual.NivelHierarquico."a:Codigo"                                                                                                       |
+| a:CodigoDeIntegracao (NivelHierarquico)   | $.Vaga.DadosContratuais.Contratual.NivelHierarquico."a:CodigoDeIntegracao"                                                                                           |
+| CentroDeCustos                  | $.Vaga.DadosContratuais.Contratual.CentroDeCustos                                                                                                                    |
+| ConvenioFarmacia                | $.Vaga.DadosContratuais.Contratual.ConvenioFarmacia                                                                                                                  |
+| QuantidadeVagas                 | $.Vaga.DadosContratuais.Contratual.QuantidadeVagas                                                                                                                   |
+| Combustivel                     | $.Vaga.DadosContratuais.Contratual.Combustivel                                                                                                                       |
+| Descricao (Pais)                | $.Vaga.DadosContratuais.Contratual.Pais.Descricao                                                                                                                        |
+| Codigo (Pais)                   | $.Vaga.DadosContratuais.Contratual.Pais.Codigo                                                                                                                           |
+| CodigoDeIntegracao (Pais)            | $.Vaga.DadosContratuais.Contratual.Pais.CodigoDeIntegracao                                                                                                                     |
+| TransportePelaEmpresa           | $.Vaga.DadosContratuais.Contratual.TransportePelaEmpresa                                                                                                             |
+| Celular                         | $.Vaga.DadosContratuais.Contratual.Celular                                                                                                                         |
+| Lotacao                         | $.Vaga.DadosContratuais.Contratual.Lotacao                                                                                                                         |
+| ParticipacaoNosLucros           | $.Vaga.DadosContratuais.Contratual.ParticipacaoNosLucros                                                                                                             |
+| NaturezaProfissional            | $.Vaga.DadosContratuais.Contratual.NaturezaProfissional                                                                                                              |
+| CestaBasica                     | $.Vaga.DadosContratuais.Contratual.CestaBasica                                                                                                                      |
+| Descricao (Empresa)             | $.Vaga.DadosContratuais.Contratual.Empresa.Descricao                                                                                                                     |
+| Codigo (Empresa)                | $.Vaga.DadosContratuais.Contratual.Empresa.Codigo                                                                                                                        |
+| CodigoDeIntegracao (Empresa)         | $.Vaga.DadosContratuais.Contratual.Empresa.CodigoDeIntegracao                                                                                                                  |
+| ExclusivaPCD                    | $.Vaga.DadosContratuais.Contratual.ExclusivaPCD                                                                                                                     |
+| Posicao                         | $.Vaga.DadosContratuais.Contratual.Posicao                                                                                                                         |
+| PrevidenciaPrivada              | $.Vaga.DadosContratuais.Contratual.PrevidenciaPrivada                                                                                                                |
+| AuxilioCreche                   | $.Vaga.DadosContratuais.Contratual.AuxilioCreche                                                                                                                     |
+| SeguroDeVida                   | $.Vaga.DadosContratuais.Contratual.SeguroDeVida                                                                                                                     |
+| FimIntervaloSalarial            | $.Vaga.DadosContratuais.Contratual.FimIntervaloSalarial                                                                                                              |
+| Descricao (Calendario)          | $.Vaga.DadosContratuais.Contratual.Calendario.Descricao                                                                                                                   |
+| Codigo (Calendario)             | $.Vaga.DadosContratuais.Contratual.Calendario.Codigo                                                                                                                      |
+| CodigoDeIntegracao (Calendario)          | $.Vaga.DadosContratuais.Contratual.Calendario.CodigoDeIntegracao                                                                                                                |
+| FaixaSalarial                   | $.Vaga.DadosContratuais.Contratual.FaixaSalarial                                                                                                                      |
+| Estacionamento                  | $.Vaga.DadosContratuais.Contratual.Estacionamento                                                                                                                    |
+| Descricao (Cargo)               | $.Vaga.DadosContratuais.Contratual.Cargo.Descricao                                                                                                                        |
+| Codigo (Cargo)                  | $.Vaga.DadosContratuais.Contratual.Cargo.Codigo                                                                                                                           |
+| CodigoDeIntegracao (Cargo)           | $.Vaga.DadosContratuais.Contratual.Cargo.CodigoDeIntegracao                                                                                                                     |
+| UnidadeOrganizacional           | $.Vaga.DadosContratuais.Contratual.UnidadeOrganizacional                                                                                                             |
+| InicioIntervaloSalarial         | $.Vaga.DadosContratuais.Contratual.InicioIntervaloSalarial                                                                                                           |
+| ValorDoSalario                  | $.Vaga.DadosContratuais.Contratual.ValorDoSalario                                                                                                                  |
+| SeguroSaude                    | $.Vaga.DadosContratuais.Contratual.SeguroSaude                                                                                                                    |
+| ValeRefeicao                    | $.Vaga.DadosContratuais.Contratual.ValeRefeicao                                                                                                                    |
+| Descricao (Motivo)              | $.Vaga.DadosContratuais.Contratual.Motivo.Descricao                                                                                                                       |
+| Codigo (Motivo)                 | $.Vaga.DadosContratuais.Contratual.Motivo.Codigo                                                                                                                          |
+| CodigoDeIntegracao (Motivo)          | $.Vaga.DadosContratuais.Contratual.Motivo.CodigoDeIntegracao                                                                                                                    |
+| TipoRemuneracao                 | $.Vaga.DadosContratuais.Contratual.TipoRemuneracao                                                                                                                 |
+| CentroDeCustosCodigoAlfanumerico | $.Vaga.DadosContratuais.Contratual.CentroDeCustosCodigoAlfanumerico                                                                                               |
+| TabelaSalarial                  | $.Vaga.DadosContratuais.Contratual.TabelaSalarial                                                                                                                  |
+| Sindicato                       | $.Vaga.DadosContratuais.Contratual.Sindicato                                                                                                                       |
+| RestauranteNaEmpresa            | $.Vaga.DadosContratuais.Contratual.RestauranteNaEmpresa                                                                                                            |
+| a:Descricao (Escala)          | $.Vaga.DadosContratuais.Contratual.Escala."a:Descricao"                                                                                                                   |
+| a:Codigo (Escala)               | $.Vaga.DadosContratuais.Contratual.Escala."a:Codigo"                                                                                                                      |
+| a:CodigoDeIntegracao (Escala)    | $.Vaga.DadosContratuais.Contratual.Escala."a:CodigoDeIntegracao"                                                                                                                 |
+| AssistenciaMedica               | $.Vaga.DadosContratuais.Contratual.AssistenciaMedica                                                                                                               |
+| TipoDoContrato                  | $.Vaga.DadosContratuais.Contratual.TipoDoContrato                                                                                                                  |
+| a:Descricao (AreaDeAtuacao)      | $.Vaga.DadosContratuais.Contratual.AreaDeAtuacao."a:Descricao"                                                                                                        |
+| a:Codigo (AreaDeAtuacao)         | $.Vaga.DadosContratuais.Contratual.AreaDeAtuacao."a:Codigo"                                                                                                           |
+| a:CodigoDeIntegracao (AreaDeAtuacao)  | $.Vaga.DadosContratuais.Contratual.AreaDeAtuacao."a:CodigoDeIntegracao"                                                                                                      |
+| TipoCargo                       | $.Vaga.DadosContratuais.Contratual.TipoCargo                                                                                                                      |
+| Descricao (Estado)              | $.Vaga.DadosContratuais.Contratual.Estado.Descricao                                                                                                                      |
+| Codigo (Estado)                 | $.Vaga.DadosContratuais.Contratual.Estado.Codigo                                                                                                                         |
+| CodigoDeIntegracao (Estado)          | $.Vaga.DadosContratuais.Contratual.Estado.CodigoDeIntegracao                                                                                                                    |
+| EstudoPosGraduacao              | $.Vaga.DadosContratuais.Contratual.EstudoPosGraduacao                                                                                                              |
+| Descricao (Municipio)           | $.Vaga.DadosContratuais.Contratual.Municipio.Descricao                                                                                                                   |
+| Codigo (Municipio)              | $.Vaga.DadosContratuais.Contratual.Municipio.Codigo                                                                                                                      |
+| CodigoDeIntegracao (Municipio)       | $.Vaga.DadosContratuais.Contratual.Municipio.CodigoDeIntegracao                                                                                                                |
+| CursoDeIdiomas                  | $.Vaga.DadosContratuais.Contratual.CursoDeIdiomas                                                                                                                  |
+| VeiculoDaEmpresa               | $.Vaga.DadosContratuais.Contratual.VeiculoDaEmpresa                                                                                                               |
+| DataCadastro                    | $.Vaga.DataCadastro                                                                                                                                                 |
+| Observacao                      | $.Vaga.Observacao                                                                                                                                                   |
+| UtilizaIndicacao                | $.Vaga.UtilizaIndicacao                                                                                                                                             |

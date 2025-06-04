@@ -1,0 +1,35 @@
+OBJETIVO: VOCE ESTA RECEBENDO UM ARQUIVO QUE TRAS UMA ARVORE DE ATRIBUTOS DE UMA API.
+MAPEIE AONDE CADA ATRIBUITO DA ARVORE SE ENCONTRA E 
+GERE UMA TABELA COM 2 COLUNAS PRIMEIRA COM  NOMEDOCAMPO E SUA LOCALIZAÇÃO NA ARVORE
+
+SEGUE MODELO DE EXEMPLO:
+
+RAIZ: <NOMEOBJETONARAIZ>
+ATRIBUTOS MAPEADOS: 80 (ATRIBUITOS NA ARVORE)
+
+NOME DO CAMPO  LOCALIZAÇÃO 
+
+Titulo         $<NOMEOBJETONARAIZ>.Titulo
+
+
+DESTA FORMA IREI CONSEGUIR LOCALIZAR QUALQUER ATRIBUITO NA ARVORE JSON
+
+OBS: 
+NÃO PRECISA DE COMENTARIOS. 
+NÃO PRECISA USAR |  
+NÃO PRECISA LISTAR O ATRIBUITO CodigoDeIntegracao, PODE IGNORAR xmlns:b
+
+GERE CONFORME MODELO:
+
+RAIZ: $.Vaga
+
+ATRIBUTOS MAPEADOS: 44
+
+NOME DO CAMPO                                                            CAMINHO
+
+DescricaoDetalhada                                                       $.Vaga.DescricaoDetalhada
+StatusProcessoSeletivo                                                   $.Vaga.StatusProcessoSeletivo
+Titulo                                                                   $.Vaga.Titulo
+DescricaoResumida                                                        $.Vaga.DescricaoResumida
+
+OBSERVAÇÃO: DE UMA DISTANCIA ENTRE AS 2 COLUNAS PARA NÃO FICAR CONFUSO OU EMBOLADO NA HORA A LEITURA DO CÓDIGO, DEIXE DE FORMA ALINHA SEGUNDA COLUNA CONFORME EXEMPLO ACIMA.

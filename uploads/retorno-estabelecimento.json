@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Status": 0,
+        "Descricao": "FILIAL SUMARE",
+        "DataInicial": "2024-03-01T00:00:00",
+        "Tipo": 1,
+        "Empresa": {
+            "Codigo": 1,
+            "CodigoDeIntegracao": {
+                "i:nil": true
+            }
+        },
+        "xmlns:b": "lg.com.br/api/dto/v2",
+        "Codigo": 7,
+        "Identificacao": "08170849000700",
+        "DataFinal": {
+            "i:nil": true
+        },
+        "CodigoDeIntegracao": {
+            "i:nil": true
+        },
+        "TipoDeIdentificacao": 1,
+        "Endereco": {
+            "CaixaPostal": {
+                "i:nil": true
+            },
+            "Logradouro": "ANGELO ONGARO",
+            "Municipio": {
+                "Codigo": 3552403,
+                "CodigoDeIntegracao": {
+                    "i:nil": true
+                },
+                "Nome": "SUMARÉ",
+                "Estado": {
+                    "Sigla": "SP",
+                    "Codigo": 25,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    },
+                    "Nome": "São Paulo",
+                    "Pais": {
+                        "Codigo": 0,
+                        "CodigoDeIntegracao": {
+                            "i:nil": true
+                        },
+                        "Nome": "Brasil"
+                    }
+                }
+            },
+            "Numero": 1363,
+            "CepCaixaPostal": {
+                "i:nil": true
+            },
+            "Complemento": "RES RAVAGNANI",
+            "TipoDeLogradouro": {
+                "Descricao": "Rua",
+                "CodigoESocial": "R",
+                "Codigo": 39,
+                "CodigoDeIntegracao": {
+                    "i:nil": true
+                }
+            },
+            "Bairro": "VILA MENUZZO",
+            "Cep": 13171525
+        }
+    },
+    "inputData": "7"
+}

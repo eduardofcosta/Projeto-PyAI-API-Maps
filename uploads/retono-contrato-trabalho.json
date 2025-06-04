@@ -1,0 +1,413 @@
+{
+    "status": 200,
+    "body": {
+        "Envelope": {
+            "xmlns:s": "http://schemas.xmlsoap.org/soap/envelope/",
+            "Body": {
+                "ConsultarContratosAplicandoAutorizacaoDePerfilResponse": {
+                    "ConsultarContratosAplicandoAutorizacaoDePerfilResult": {
+                        "xmlns:a": "lg.com.br/api/dto/v1",
+                        "QuantidadePorPagina": 50,
+                        "CodigoDoErro": {
+                            "i:nil": true
+                        },
+                        "Tipo": 0,
+                        "NumeroDaPagina": 1,
+                        "TotalGeral": 2,
+                        "Mensagens": {
+                            "i:nil": true,
+                            "xmlns:b": "http://schemas.microsoft.com/2003/10/Serialization/Arrays"
+                        },
+                        "TotalDePaginas": 1,
+                        "xmlns:i": "http://www.w3.org/2001/XMLSchema-instance",
+                        "Retorno": {
+                            "ContratoDeTrabalhoV3": [
+                                {
+                                    "ListaValorDaInformacaoAdicional": {
+                                        "ValorDaInformacaoAdicional": [
+                                            {
+                                                "TipoDaEntidade": 1034,
+                                                "OpcoesSelecionadas": {
+                                                    "xmlns:b": "http://schemas.microsoft.com/2003/10/Serialization/Arrays"
+                                                },
+                                                "Codigo": 168,
+                                                "Valor": ""
+                                            },
+                                            {
+                                                "TipoDaEntidade": 1034,
+                                                "OpcoesSelecionadas": {
+                                                    "string": "Sem custo",
+                                                    "xmlns:b": "http://schemas.microsoft.com/2003/10/Serialization/Arrays"
+                                                },
+                                                "Codigo": 171,
+                                                "Valor": ""
+                                            }
+                                        ]
+                                    },
+                                    "Alocacao": {
+                                        "Estabelecimento": {
+                                            "Descricao": "FILIAL SUMARE",
+                                            "Codigo": 7,
+                                            "Identificacao": "08170849000700",
+                                            "TipoDeIdentificacao": 1
+                                        },
+                                        "UnidadeOrganizacional": {
+                                            "Descricao": "VEN&MKT - COMERCIAL EXTERNO - CENTRAL - SOROCABA",
+                                            "Codigo": 10512,
+                                            "CodigoDeIntegracao": {
+                                                "i:nil": true
+                                            }
+                                        },
+                                        "Empresa": {
+                                            "Descricao": "DESKTOP S.A.",
+                                            "TipoDeInscricao": 1,
+                                            "Codigo": 1,
+                                            "Inscricao": "08170849000115"
+                                        },
+                                        "OrgaoResponsavel": {
+                                            "Codigo": 72
+                                        },
+                                        "CargoEFuncaoEfetivo": {
+                                            "Cargo": {
+                                                "Descricao": "COORDENADOR DE VENDAS REGIONAL",
+                                                "Codigo": 1641
+                                            },
+                                            "TipoDeSalarioFuncao": {
+                                                "i:nil": true
+                                            },
+                                            "TipoDeSalarioCargo": {
+                                                "i:nil": true
+                                            },
+                                            "Funcao": {
+                                                "i:nil": true
+                                            },
+                                            "TabelaSalarialDaFuncao": {
+                                                "i:nil": true
+                                            },
+                                            "TabelaSalarialDoCargo": {
+                                                "NivelSalarial": {
+                                                    "i:nil": true
+                                                },
+                                                "TabelaSalarial": {
+                                                    "i:nil": true
+                                                },
+                                                "FaixaSalarial": {
+                                                    "i:nil": true
+                                                },
+                                                "Salario": {
+                                                    "i:nil": true
+                                                }
+                                            }
+                                        },
+                                        "CentroDeCusto": {
+                                            "Descricao": "SALES",
+                                            "Codigo": 1,
+                                            "CodigoDeIntegracao": {
+                                                "i:nil": true
+                                            }
+                                        },
+                                        "ListaDeGestores": {
+                                            "IdentificacaoDeGestorV2": {
+                                                "Empresa": {
+                                                    "Codigo": 1,
+                                                    "CodigoDeIntegracao": {
+                                                        "i:nil": true
+                                                    }
+                                                },
+                                                "Matricula": 7496,
+                                                "Cpf": 10637584759
+                                            }
+                                        }
+                                    },
+                                    "DadosGerais": {
+                                        "DadosDoAutonomo": "",
+                                        "DataAdmissao": "2022-10-03T00:00:00",
+                                        "Publicacao": "",
+                                        "ModalidadeContratual": {
+                                            "i:nil": true
+                                        },
+                                        "DataInicioDaSituacaoAtual": "2024-11-03T00:00:00",
+                                        "ListaColaboradoresSubstituidos": "",
+                                        "MandatoEletivo": "",
+                                        "Matricula": 4820,
+                                        "Situacao": {
+                                            "Descricao": "ATIVIDADE NORMAL",
+                                            "Codigo": 1
+                                        },
+                                        "DadosDoEstatutario": ""
+                                    },
+                                    "ListaDeResidenteEDomiciliadoNoExterior": "",
+                                    "Pessoa": {
+                                        "IdiomasEFluencias": "",
+                                        "Documentos": {
+                                            "xmlns:b": "lg.com.br/api/dto/v2"
+                                        },
+                                        "Competencias": "",
+                                        "ExperienciasProfissionais": "",
+                                        "Pensionistas": "",
+                                        "Contato": {
+                                            "EmailParticular": "fernando.oliveira.roberto@outlook.com",
+                                            "EmailCorporativo": "fernando.roliveira@desktop.net.br"
+                                        },
+                                        "CursosExtraCurriculares": "",
+                                        "ListaValorDaInformacaoAdicional": {
+                                            "ValorDaInformacaoAdicional": [
+                                                {
+                                                    "TipoDaEntidade": 1029,
+                                                    "OpcoesSelecionadas": {
+                                                        "xmlns:b": "http://schemas.microsoft.com/2003/10/Serialization/Arrays"
+                                                    },
+                                                    "Codigo": 163,
+                                                    "Valor": "Carla Mendes de Oliv"
+                                                },
+                                                {
+                                                    "TipoDaEntidade": 1029,
+                                                    "OpcoesSelecionadas": {
+                                                        "xmlns:b": "http://schemas.microsoft.com/2003/10/Serialization/Arrays"
+                                                    },
+                                                    "Codigo": 162,
+                                                    "Valor": "15 991862232"
+                                                },
+                                                {
+                                                    "TipoDaEntidade": 1029,
+                                                    "OpcoesSelecionadas": {
+                                                        "xmlns:b": "http://schemas.microsoft.com/2003/10/Serialization/Arrays"
+                                                    },
+                                                    "Codigo": 164,
+                                                    "Valor": "esposa"
+                                                }
+                                            ]
+                                        },
+                                        "Dependentes": {
+                                            "DependenteV3": [
+                                                {
+                                                    "Documentos": "",
+                                                    "Codigo": 0,
+                                                    "ListaValorDaInformacaoAdicional": "",
+                                                    "CodigoDeIntegracao": {
+                                                        "i:nil": true
+                                                    },
+                                                    "ListaDependenciasAdicionais": "",
+                                                    "DadosPessoais": "",
+                                                    "Endereco": ""
+                                                },
+                                                {
+                                                    "Documentos": "",
+                                                    "Codigo": 0,
+                                                    "ListaValorDaInformacaoAdicional": "",
+                                                    "CodigoDeIntegracao": {
+                                                        "i:nil": true
+                                                    },
+                                                    "ListaDependenciasAdicionais": "",
+                                                    "DadosPessoais": "",
+                                                    "Endereco": ""
+                                                },
+                                                {
+                                                    "Documentos": "",
+                                                    "Codigo": 0,
+                                                    "ListaValorDaInformacaoAdicional": "",
+                                                    "CodigoDeIntegracao": {
+                                                        "i:nil": true
+                                                    },
+                                                    "ListaDependenciasAdicionais": "",
+                                                    "DadosPessoais": "",
+                                                    "Endereco": ""
+                                                },
+                                                {
+                                                    "Documentos": "",
+                                                    "Codigo": 0,
+                                                    "ListaValorDaInformacaoAdicional": "",
+                                                    "CodigoDeIntegracao": {
+                                                        "i:nil": true
+                                                    },
+                                                    "ListaDependenciasAdicionais": "",
+                                                    "DadosPessoais": "",
+                                                    "Endereco": ""
+                                                }
+                                            ]
+                                        },
+                                        "FormacoesAcademicas": "",
+                                        "DadosPessoais": {
+                                            "Filiacao": "",
+                                            "CpfCnpj": 29780961879,
+                                            "Nome": "FERNANDO ROBERTO DE OLIVEIRA",
+                                            "ListaDeNecessidadeEspecial": ""
+                                        },
+                                        "Endereco": {
+                                            "Municipio": {
+                                                "Codigo": 3552205,
+                                                "CodigoDeIntegracao": {
+                                                    "i:nil": true
+                                                },
+                                                "Pais": 0
+                                            },
+                                            "CepCaixaPostal": "",
+                                            "Bairro": "CAGUASSU",
+                                            "Pais": 0,
+                                            "Cep": 18072856,
+                                            "Estado": 25
+                                        }
+                                    }
+                                },
+                                {
+                                    "ListaValorDaInformacaoAdicional": "",
+                                    "Alocacao": {
+                                        "Estabelecimento": {
+                                            "Descricao": "FASTERNET MATRIZ",
+                                            "Codigo": 58,
+                                            "Identificacao": "04127856000183",
+                                            "TipoDeIdentificacao": 1
+                                        },
+                                        "UnidadeOrganizacional": {
+                                            "Descricao": "G&G - GENTE E GESTAO - CORPORATIVO",
+                                            "Codigo": 10478,
+                                            "CodigoDeIntegracao": {
+                                                "i:nil": true
+                                            }
+                                        },
+                                        "Empresa": {
+                                            "Descricao": "CILNET COMUNICACAO E INFORMATICA S.A.",
+                                            "TipoDeInscricao": 1,
+                                            "Codigo": 22,
+                                            "Inscricao": "04127856000183"
+                                        },
+                                        "OrgaoResponsavel": {
+                                            "Codigo": 43
+                                        },
+                                        "CargoEFuncaoEfetivo": {
+                                            "Cargo": {
+                                                "Descricao": "ASSISTENTE DE GENTE E GESTAO",
+                                                "Codigo": 1496
+                                            },
+                                            "TipoDeSalarioFuncao": {
+                                                "i:nil": true
+                                            },
+                                            "TipoDeSalarioCargo": {
+                                                "i:nil": true
+                                            },
+                                            "Funcao": {
+                                                "i:nil": true
+                                            },
+                                            "TabelaSalarialDaFuncao": {
+                                                "i:nil": true
+                                            },
+                                            "TabelaSalarialDoCargo": {
+                                                "NivelSalarial": {
+                                                    "i:nil": true
+                                                },
+                                                "TabelaSalarial": {
+                                                    "i:nil": true
+                                                },
+                                                "FaixaSalarial": {
+                                                    "i:nil": true
+                                                },
+                                                "Salario": {
+                                                    "i:nil": true
+                                                }
+                                            }
+                                        },
+                                        "CentroDeCusto": {
+                                            "Descricao": "G&A",
+                                            "Codigo": 2,
+                                            "CodigoDeIntegracao": {
+                                                "i:nil": true
+                                            }
+                                        },
+                                        "ListaDeGestores": {
+                                            "IdentificacaoDeGestorV2": {
+                                                "Empresa": {
+                                                    "Codigo": 1,
+                                                    "CodigoDeIntegracao": {
+                                                        "i:nil": true
+                                                    }
+                                                },
+                                                "Matricula": 7306,
+                                                "Cpf": 40828418810
+                                            }
+                                        }
+                                    },
+                                    "DadosGerais": {
+                                        "DadosDoAutonomo": "",
+                                        "DataAdmissao": "2022-12-19T00:00:00",
+                                        "Publicacao": "",
+                                        "ModalidadeContratual": {
+                                            "i:nil": true
+                                        },
+                                        "DataInicioDaSituacaoAtual": "2024-12-01T00:00:00",
+                                        "ListaColaboradoresSubstituidos": "",
+                                        "MandatoEletivo": "",
+                                        "Matricula": 472,
+                                        "Situacao": {
+                                            "Descricao": "ATIVIDADE NORMAL",
+                                            "Codigo": 1
+                                        },
+                                        "DadosDoEstatutario": ""
+                                    },
+                                    "ListaDeResidenteEDomiciliadoNoExterior": "",
+                                    "Pessoa": {
+                                        "IdiomasEFluencias": "",
+                                        "Documentos": {
+                                            "xmlns:b": "lg.com.br/api/dto/v2"
+                                        },
+                                        "Competencias": "",
+                                        "ExperienciasProfissionais": "",
+                                        "Pensionistas": "",
+                                        "Contato": {
+                                            "EmailParticular": "tamireslima0706@gmail.com",
+                                            "EmailCorporativo": "tamires.lima@desktop.tec.br"
+                                        },
+                                        "CursosExtraCurriculares": "",
+                                        "ListaValorDaInformacaoAdicional": "",
+                                        "Dependentes": {
+                                            "DependenteV3": {
+                                                "Documentos": "",
+                                                "Codigo": 0,
+                                                "ListaValorDaInformacaoAdicional": "",
+                                                "CodigoDeIntegracao": {
+                                                    "i:nil": true
+                                                },
+                                                "ListaDependenciasAdicionais": "",
+                                                "DadosPessoais": "",
+                                                "Endereco": ""
+                                            }
+                                        },
+                                        "FormacoesAcademicas": "",
+                                        "DadosPessoais": {
+                                            "Filiacao": "",
+                                            "CpfCnpj": 42964379840,
+                                            "Nome": "TAMIRES CRISTINA DE ARRUDA LIMA",
+                                            "ListaDeNecessidadeEspecial": ""
+                                        },
+                                        "Endereco": {
+                                            "Municipio": {
+                                                "Codigo": 3511508,
+                                                "CodigoDeIntegracao": {
+                                                    "i:nil": true
+                                                },
+                                                "Pais": 0
+                                            },
+                                            "CepCaixaPostal": "",
+                                            "Bairro": "VILA PEDROSO",
+                                            "Pais": 0,
+                                            "Cep": 18528340,
+                                            "Estado": 25
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "xmlns": "lg.com.br/api/v2"
+                }
+            }
+        }
+    },
+    "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "8827",
+        "Content-Type": "text/xml; charset=utf-8",
+        "Date": "Thu, 29 May 2025 12:37:04 GMT",
+        "Server": "Microsoft-HTTPAPI/2.0",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=93909d6ca73245fb2577b8e52c5ea889; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=93909d6ca73245fb2577b8e52c5ea889; Path=/"
+    }
+}

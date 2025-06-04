@@ -1,0 +1,39 @@
+RAIZ: $.data
+
+ATRIBUTOS MAPEADOS: 20
+
+NOME DO CAMPO                                                             CAMINHO
+
+Status                                                                    $.data.Status
+Descricao                                                                 $.data.Descricao
+DataInicial                                                               $.data.DataInicial
+Tipo                                                                      $.data.Tipo
+Empresa                                                                   $.data.Empresa
+Codigo                                                                    $.data.Codigo
+Identificacao                                                             $.data.Identificacao
+DataFinal                                                                 $.data.DataFinal
+TipoDeIdentificacao                                                       $.data.TipoDeIdentificacao
+Endereco                                                                  $.data.Endereco
+inputData                                                                 $.data.inputData
+Empresa.Codigo                                                            $.data.Empresa.Codigo
+Endereco.CaixaPostal                                                      $.data.Endereco.CaixaPostal
+Endereco.Logradouro                                                       $.data.Endereco.Logradouro
+Endereco.Municipio                                                        $.data.Endereco.Municipio
+Endereco.Numero                                                           $.data.Endereco.Numero
+Endereco.CepCaixaPostal                                                   $.data.Endereco.CepCaixaPostal
+Endereco.Complemento                                                      $.data.Endereco.Complemento
+Endereco.TipoDeLogradouro                                                 $.data.Endereco.TipoDeLogradouro
+Endereco.Bairro                                                           $.data.Endereco.Bairro
+Endereco.Cep                                                              $.data.Endereco.Cep
+Endereco.Municipio.Codigo                                                 $.data.Endereco.Municipio.Codigo
+Endereco.Municipio.Nome                                                   $.data.Endereco.Municipio.Nome
+Endereco.Municipio.Estado                                                 $.data.Endereco.Municipio.Estado
+Endereco.TipoDeLogradouro.Descricao                                       $.data.Endereco.TipoDeLogradouro.Descricao
+Endereco.TipoDeLogradouro.CodigoESocial                                   $.data.Endereco.TipoDeLogradouro.CodigoESocial
+Endereco.TipoDeLogradouro.Codigo                                          $.data.Endereco.TipoDeLogradouro.Codigo
+Endereco.Municipio.Estado.Sigla                                           $.data.Endereco.Municipio.Estado.Sigla
+Endereco.Municipio.Estado.Codigo                                          $.data.Endereco.Municipio.Estado.Codigo
+Endereco.Municipio.Estado.Nome                                            $.data.Endereco.Municipio.Estado.Nome
+Endereco.Municipio.Estado.Pais                                            $.data.Endereco.Municipio.Estado.Pais
+Endereco.Municipio.Estado.Pais.Codigo                                     $.data.Endereco.Municipio.Estado.Pais.Codigo
+Endereco.Municipio.Estado.Pais.Nome                                       $.data.Endereco.Municipio.Estado.Pais.Nome

@@ -1,0 +1,1 @@
+Error processing with AI: GenerativeModel.generate_content() got an unexpected keyword argument 'prompt'

@@ -1,0 +1,317 @@
+{
+    "status": 200,
+    "statusMessage": "OK",
+    "body": {
+        "totalItems": 27,
+        "totalPages": 1,
+        "users": [
+            {
+                "idCompanyUser": 100964,
+                "name": "Alana",
+                "surname": "Magela",
+                "email": "alana.magela@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T09:02:26.1078914"
+            },
+            {
+                "idCompanyUser": 100962,
+                "name": "Alessandra",
+                "surname": "Maciel",
+                "email": "alessandra.maciel@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-21T18:48:44.9537272"
+            },
+            {
+                "idCompanyUser": 101400,
+                "name": "Aline",
+                "surname": "Pandolfo",
+                "email": "aline.pandolfo@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 1,
+                "lastLoginDate": "2025-04-16T18:20:30.6856414"
+            },
+            {
+                "idCompanyUser": 100966,
+                "name": "Amanda",
+                "surname": "Sousa",
+                "email": "amanda.sousa@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-27T08:58:46.5475663"
+            },
+            {
+                "idCompanyUser": 101824,
+                "name": "Bruna",
+                "surname": "Botelho",
+                "email": "bruna.botelho@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-04-07T11:50:00.3590264"
+            },
+            {
+                "idCompanyUser": 100461,
+                "name": "Bruna",
+                "surname": "Dias",
+                "email": "bruna.dsilva@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T11:53:20.5605504"
+            },
+            {
+                "idCompanyUser": 100745,
+                "name": "Claudia",
+                "surname": "Lovison",
+                "email": "claudia.azevedo@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 5,
+                "lastLoginDate": "2025-04-17T13:37:12.3933236"
+            },
+            {
+                "idCompanyUser": 108053,
+                "name": "Eduardo",
+                "surname": "Costa - Ti Lg",
+                "email": "ti.eduardo.costa@lg.com.br",
+                "phone": null,
+                "userAD": null,
+                "role": 1,
+                "lastLoginDate": "2025-05-26T16:03:49.8671914"
+            },
+            {
+                "idCompanyUser": 100468,
+                "name": "Elisangela",
+                "surname": "Simonato",
+                "email": "elisangela.simonato@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T11:39:52.6329508"
+            },
+            {
+                "idCompanyUser": 100965,
+                "name": "Fabiana",
+                "surname": "Lima",
+                "email": "fabiana.martins@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-04-23T15:09:07.8337962"
+            },
+            {
+                "idCompanyUser": 100742,
+                "name": "Felipe",
+                "surname": "Lopes",
+                "email": "felipe.silva@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 5,
+                "lastLoginDate": "2025-05-07T16:43:52.5516492"
+            },
+            {
+                "idCompanyUser": 100464,
+                "name": "Giselle",
+                "surname": "Vieira",
+                "email": "giselle.vieira@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T08:49:27.546447"
+            },
+            {
+                "idCompanyUser": 100960,
+                "name": "Isabella",
+                "surname": "Mazucki",
+                "email": "isabella.mazucki@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T11:00:06.3476755"
+            },
+            {
+                "idCompanyUser": 100479,
+                "name": "Isabelli",
+                "surname": "Silva",
+                "email": "isabelli.silva@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T07:55:07.1884787"
+            },
+            {
+                "idCompanyUser": 100968,
+                "name": "Jamila",
+                "surname": "Capi",
+                "email": "jamila.capi@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T13:58:31.434813"
+            },
+            {
+                "idCompanyUser": 101823,
+                "name": "Juliana",
+                "surname": "Oliveira",
+                "email": "juliana.oliveira@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 5,
+                "lastLoginDate": "2025-04-14T15:28:35.9788097"
+            },
+            {
+                "idCompanyUser": 100451,
+                "name": "Kelly",
+                "surname": "Lourenço",
+                "email": "kelly.lourenco@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-04-30T13:46:14.036671"
+            },
+            {
+                "idCompanyUser": 100477,
+                "name": "Khemmily",
+                "surname": "Santos",
+                "email": "khemmily.santos@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-15T08:52:35.3170957"
+            },
+            {
+                "idCompanyUser": 100967,
+                "name": "Larissa",
+                "surname": "Baptista",
+                "email": "larissa.baptista@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T08:41:19.0894178"
+            },
+            {
+                "idCompanyUser": 100442,
+                "name": "Lidia",
+                "surname": "Souza",
+                "email": "lidia.souza@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 1,
+                "lastLoginDate": "2025-05-23T07:56:31.9731232"
+            },
+            {
+                "idCompanyUser": 104322,
+                "name": "Patricia",
+                "surname": "Vieira",
+                "email": "patricia.santos@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T11:17:43.2232667"
+            },
+            {
+                "idCompanyUser": 100441,
+                "name": "Suporte",
+                "surname": "Pandapé",
+                "email": "suportepandape@suportedesktop.com.br",
+                "phone": null,
+                "userAD": null,
+                "role": 1,
+                "lastLoginDate": "2025-02-17T09:40:20.7463985"
+            },
+            {
+                "idCompanyUser": 100959,
+                "name": "Taina",
+                "surname": "Farias",
+                "email": "taina.marcello@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-03-20T16:29:50.5054302"
+            },
+            {
+                "idCompanyUser": 100961,
+                "name": "Tamires",
+                "surname": "Lima",
+                "email": "tamires.lima@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-23T11:38:02.2520583"
+            },
+            {
+                "idCompanyUser": 100963,
+                "name": "Tania",
+                "surname": "Paradinha",
+                "email": "tania.paradinha@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-27T08:14:29.1703464"
+            },
+            {
+                "idCompanyUser": 100472,
+                "name": "Thainara",
+                "surname": "Lira",
+                "email": "thainara.lira.ext@desktop.tec.br",
+                "phone": null,
+                "userAD": null,
+                "role": 2,
+                "lastLoginDate": "2025-05-26T16:59:20.2368192"
+            },
+            {
+                "idCompanyUser": 100743,
+                "name": "Wanessa",
+                "surname": "Ruiz",
+                "email": "wanessa.ruiz@desktop.net.br",
+                "phone": null,
+                "userAD": null,
+                "role": 5,
+                "lastLoginDate": "2025-05-26T10:15:36.2820434"
+            }
+        ],
+        "links": [
+            {
+                "href": "https://api.pandape.com.br/v2/company/users?Page=1&PageSize=1000",
+                "rel": "self",
+                "method": "GET"
+            }
+        ]
+    },
+    "headers": {
+        "api-supported-versions": "2, 3",
+        "Connection": "keep-alive",
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Tue, 27 May 2025 12:52:11 GMT",
+        "Request-Context": "appId=cid-v1:64105b99-36fa-4a54-a07c-5c4da3312b2e",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+        "Transfer-Encoding": "chunked",
+        "Vary": "Accept-Encoding"
+    }
+}
+
+
+
+{
+    "RequisicaoVaga": {
+        "status": 200,
+        "statusMessage": "OK",
+        "body": 454641,
+        "headers": {
+            "api-supported-versions": "2",
+            "Connection": "keep-alive",
+            "Content-Type": "application/json; charset=utf-8",
+            "Date": "Wed, 28 May 2025 02:17:11 GMT",
+            "Request-Context": "appId=cid-v1:64105b99-36fa-4a54-a07c-5c4da3312b2e",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Transfer-Encoding": "chunked",
+            "Vary": "Accept-Encoding"
+        }
+    }
+}

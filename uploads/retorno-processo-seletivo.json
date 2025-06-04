@@ -1,0 +1,187 @@
+{
+    "CompanyUser": {
+        "Gestor": {
+            "email": "fernando.roliveira@desktop.net.br"
+        },
+        "Recrutador": {
+            "email": "tamires.lima@desktop.tec.br",
+            "idCompanyUser": 100961
+        }
+    },
+    "Vaga": {
+        "DescricaoDetalhada": "<p>Estamos buscando um(a) <strong>Consultor(a) de Vendas Externas I</strong> apaixonado(a) por vendas e desafios para integrar nossa equipe em Belo Horizonte. Se você possui um perfil proativo, gosta de construir relacionamentos e busca crescimento profissional, essa oportunidade é para você!</p>",
+        "StatusProcessoSeletivo": 0,
+        "Titulo": "CONSULTOR DE VENDAS EXTERNO I",
+        "DescricaoResumida": "<p>Estamos buscando um(a) <strong>Consultor(a) de Vendas Externas I</strong> apaixonado(a) por vendas e desafios para integrar nossa equipe em Belo Horizonte. Se você possui um perfil proativo, gosta de construir relacionamentos e busca crescimento profissional, essa oportunidade é para você!</p>",
+        "GestorSolicitante": {
+            "Descricao": "FERNANDO ROBERTO DE OLIVEIRA",
+            "Codigo": 4820,
+            "CodigoDeIntegracao": {
+                "i:nil": true
+            }
+        },
+        "ProcessoSeletivoModelo": false,
+        "TipoProcessoSeletivo": 1,
+        "Codigo": 10373,
+        "Identificacao": 30279,
+        "DataLimite": "2025-05-16T00:00:00",
+        "DataInicio": "2025-04-07T00:00:00",
+        "DataConclusao": {
+            "i:nil": true
+        },
+        "AnalistaResponsavel": {
+            "Descricao": "TAMIRES CRISTINA DE ARRUDA LIMA",
+            "Codigo": 472,
+            "CodigoDeIntegracao": {
+                "i:nil": true
+            }
+        },
+        "ProcessoSeletivoSigiloso": false,
+        "DadosContratuais": {
+            "Contratual": {
+                "Estabelecimento": {
+                    "Descricao": "FILIAL SUMARE",
+                    "Codigo": 7,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "ValeTransporte": false,
+                "NivelSalarial": {
+                    "i:nil": true
+                },
+                "OrgaoResponsavel": {
+                    "i:nil": true
+                },
+                "EstudoFaculdade": false,
+                "AssistenciaOdontologica": true,
+                "ValeAlimentacao": true,
+                "NivelHierarquico": {
+                    "a:Descricao": "Estágio / Trainee",
+                    "a:Codigo": 9,
+                    "a:CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "CentroDeCustos": {
+                    "i:nil": true
+                },
+                "ConvenioFarmacia": false,
+                "QuantidadeVagas": 1,
+                "Combustivel": true,
+                "Pais": {
+                    "Descricao": "Brasil",
+                    "Codigo": 0,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "TransportePelaEmpresa": false,
+                "Celular": false,
+                "Lotacao": {
+                    "i:nil": true
+                },
+                "ParticipacaoNosLucros": true,
+                "NaturezaProfissional": {
+                    "i:nil": true
+                },
+                "CestaBasica": true,
+                "Empresa": {
+                    "Descricao": "DESKTOP S.A.",
+                    "Codigo": 1,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "ExclusivaPCD": false,
+                "Posicao": {
+                    "i:nil": true
+                },
+                "PrevidenciaPrivada": true,
+                "AuxilioCreche": false,
+                "SeguroDeVida": false,
+                "FimIntervaloSalarial": 0,
+                "Calendario": {
+                    "Descricao": "Feriados Nacionais",
+                    "Codigo": 147,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "FaixaSalarial": {
+                    "i:nil": true
+                },
+                "Estacionamento": false,
+                "Cargo": {
+                    "Descricao": "CONSULTOR DE VENDAS EXTERNO I",
+                    "Codigo": 1776,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "UnidadeOrganizacional": {
+                    "i:nil": true
+                },
+                "InicioIntervaloSalarial": 0,
+                "ValorDoSalario": 0,
+                "SeguroSaude": true,
+                "ValeRefeicao": true,
+                "Motivo": {
+                    "Descricao": "Subst. | Recrutamento Externo",
+                    "Codigo": 6,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "TipoRemuneracao": 0,
+                "CentroDeCustosCodigoAlfanumerico": {
+                    "i:nil": true
+                },
+                "TabelaSalarial": {
+                    "i:nil": true
+                },
+                "Sindicato": {
+                    "i:nil": true
+                },
+                "RestauranteNaEmpresa": false,
+                "Escala": {
+                    "a:Descricao": "6 X 1 - 12:40 as 21:00- Folga aos domingos",
+                    "a:Codigo": 293,
+                    "a:CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "AssistenciaMedica": true,
+                "TipoDoContrato": 1,
+                "AreaDeAtuacao": {
+                    "a:Descricao": "Administrativo",
+                    "a:Codigo": 31,
+                    "a:CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "TipoCargo": 1,
+                "Estado": {
+                    "Descricao": "São Paulo",
+                    "Codigo": 25,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "EstudoPosGraduacao": false,
+                "Municipio": {
+                    "Descricao": "SOROCABA",
+                    "Codigo": 3552205,
+                    "CodigoDeIntegracao": {
+                        "i:nil": true
+                    }
+                },
+                "CursoDeIdiomas": false,
+                "VeiculoDaEmpresa": false
+            }
+        },
+        "DataCadastro": "2025-04-07T14:10:36",
+        "Observacao": "Estamos buscando um(a) Consultor(a) de Vendas Externas I apaixonado(a) por vendas e desafios para integrar nossa equipe em Belo Horizonte. Se você possui um perfil proativo, gosta de construir relacionamentos e busca crescimento profissional, essa oportunidade é para você!",
+        "UtilizaIndicacao": false
+    }
+}
